@@ -41,7 +41,3 @@ The API includes comprehensive tests that verify all endpoints work correctly.
 ## 🚧 Status
 
 **This is a development version that will be tested in production.**
-
-## 📝 License
-
-MIT License
