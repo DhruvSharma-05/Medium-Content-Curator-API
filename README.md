@@ -1,4 +1,4 @@
-# 🤖 Medium AI Content Curator API
+# Medium AI Content Curator API
 
 > A powerful API that intelligently curates Medium articles and provides AI-powered content recommendations.
 
