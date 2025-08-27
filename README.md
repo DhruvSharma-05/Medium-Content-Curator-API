@@ -1,4 +1,5 @@
 # Medium AI Content Curator API
+> A powerful API that intelligently curates Medium articles and provides AI-powered content recommendations.
 
 # ⚠️ Important Notice  
 
@@ -6,8 +7,6 @@ Medium no longer allows bots or automated scraping.
 I realized this while trying to build a frontend app, so this project cannot be continued as originally planned.  
 
 ---
-
-> A powerful API that intelligently curates Medium articles and provides AI-powered content recommendations.
 
 ## 🚀 What It Does
 
@@ -44,7 +43,3 @@ I realized this while trying to build a frontend app, so this project cannot be 
 ## 🧪 Testing
 
 The API includes comprehensive tests that verify all endpoints work correctly.
-
-## 🚧 Status
-
-**This is a development version that will be tested in production.**
